@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&display=swap');
+
+body{
+    background-color: orangered;
+    color: azure;
+    background-image: url("../img/sqares.jpg");
+}
+
+h2{
+    color: greenyellow;
+    background-color: brown;
+    width: 50px;
+    text-align: center;
+    margin: auto;
+    font-family: "Moo Lah Lah", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+
